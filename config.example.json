@@ -1,0 +1,15 @@
+{
+  "figmaFileKey": "",
+  "figmaSource": "auto",
+  "autoFulfillMcp": true,
+  "dismiss": [
+    "#cookie-law-info-bar"
+  ],
+  "breakpoints": [
+    375,
+    768,
+    1920
+  ],
+  "scale": 2,
+  "pages": []
+}

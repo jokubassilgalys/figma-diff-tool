@@ -1,0 +1,16 @@
+{
+  "name": "figma-diff",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Figma vs localhost visual comparison (375/768/1920) with overlay/difference report",
+  "scripts": {
+    "capture": "node capture.js",
+    "report": "node report.js",
+    "qa": "node capture.js && node report.js",
+    "qa:mcp": "node capture.js --source=mcp && node report.js",
+    "ui": "node server.js"
+  },
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}
