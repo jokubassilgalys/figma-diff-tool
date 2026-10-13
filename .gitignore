@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+config.json
+output/
+node_modules/
